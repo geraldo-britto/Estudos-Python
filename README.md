@@ -1,4 +1,5 @@
 # Estudos-Python
 Alguns estudos de aplicações utilizando Python e suas diversas bibliotecas.
 
-<h4><b>scrapper.py</h4></b> - Realiza uma varredura em um site de camisetas religiosas buscando e gravando em um arquivo .csv o nome do produto e seu preço.
+<h3><b>scrapper.py</h3></b>
+<li><ul>Realiza uma varredura em um site de camisetas religiosas buscando e gravando em um arquivo .csv o nome do produto e seu preço.</li></ul>
